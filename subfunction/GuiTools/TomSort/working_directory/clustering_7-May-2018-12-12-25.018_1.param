@@ -1,0 +1,24 @@
+AverageInteraction	0.103403
+ClustersReported	12
+CharDist	111.773857
+DataFile	clustering_7-May-2018-12-12-25.018_1_spcinput
+Dimensions	10
+DirectedGrowth	
+KNearestNeighbours	11
+MinTemp	0.02
+MaxTemp	0.2
+MSTree	
+NumberOfPoints	640
+NumberOfEdges	2114
+NearestNeighbrs	6.606250
+OutFile	clustering_7-May-2018-12-12-25.018_1
+PottsSpins	20
+RandomSeed	12588
+SusceptColors	4
+SaveSuscept	
+SWCycles	100
+SWFraction	0.800000
+ThresholdTheta	0.500000
+TempStep	0.01
+WriteLables	
+WriteLabels	

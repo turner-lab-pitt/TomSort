@@ -1,0 +1,14 @@
+NumberOfPoints: 640
+DataFile: clustering_7-May-2018-12-12-25.018_1_spcinput
+OutFile: clustering_7-May-2018-12-12-25.018_1
+Dimensions: 10
+MinTemp: 0.02
+MaxTemp: 0.2
+TempStep: 0.01
+SWCycles: 100
+KNearestNeighbours: 11
+MSTree|
+DirectedGrowth|
+SaveSuscept|
+WriteLables|
+WriteCorFile~
