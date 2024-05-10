@@ -22,3 +22,5 @@
 	Reference
 	  Chaure, F. J. and Rey, H. G. and Quian Quiroga, R. "A novel and fully automatic spike sorting implementation with variable number of features", Journal of Neurophysiology, vol. 120-4, pg. 1859-1871, 2018
 
+	Funding
+	  This research was funded in part by Aligning Science Across Parkinson’s (ASAP-020519) through the Michael J. Fox Foundation for Parkinson’s Research (MJFF).
