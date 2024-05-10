@@ -11,7 +11,7 @@
 
 	MatLab requirements
 	  Parallel Computing Toolbox:	
-	    https://jp.mathworks.com/products/parallel-computing.html	
+	    https://www.mathworks.com/products/parallel-computing.html
 	  extrema.m function:	
 	    https://jp.mathworks.com/matlabcentral/fileexchange/12275-extrema-m-extrema2-m	
 	  wave_clus (SPC):	
