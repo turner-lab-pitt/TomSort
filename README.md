@@ -13,7 +13,7 @@
 	  Parallel Computing Toolbox:	
 	    https://www.mathworks.com/products/parallel-computing.html
 	  extrema.m function:	
-	    https://jp.mathworks.com/matlabcentral/fileexchange/12275-extrema-m-extrema2-m	
+	    https://www.mathworks.com/matlabcentral/fileexchange/12275-extrema-m-extrema2-m	
 	  wave_clus (SPC):	
 	    https://github.com/csn-le/wave_clus
 	  Code to read and write NeuroExplorer data files:
